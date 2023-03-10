@@ -8,10 +8,19 @@ V. Pasandi, D. Pucci, "Torque Control with Joints Position and Velocity Limits A
 
 </div>
 
+Video
+
 <p align="center">
 
 <div align="center">
 2023 International Conference on Robotics and Automation (ICRA)
+</div>
+
+<div align="center">
+  <a href="Paper"><b>Paper</b></a> |
+  <a href="Pre=print"><b>Pre-print</b></a> |
+  <a href="Video"><b>Video</b></a> |
+ <a href="Results"><b>Results</b></a>
 </div>
 
 ## Abstract
@@ -22,11 +31,26 @@ The proposed parametrization transforms the control problem with constrained sta
 With the help of Lyapunov-based arguments, we prove that the proposed control architecture ensures the stability and convergence of the desired joint trajectory along with the joints position and velocity limits avoidance.
 We validate the performance of proposed architecture through various simulations on a simple two-degree-of-freedom manipulator and the humanoid robot iCub.
 
-## Results
-:warning: **The results is work in progress!**
+## Installation
+:warning: **The work in progress!**
+
+## Instructions
+:warning: **The work in progress!**
 
 ## Citing this work
-:warning: **The results is work in progress!**
+If you find the work useful, please consider citing:
+
+```bibtex
+@INPROCEEDINGS{00000,
+  author={{Pasandi, Venus and Pucci, Daniele},
+  booktitle={2023 International Conference on Robotics and Automation (ICRA)}, 
+  title={Torque Control with Joints Position and Velocity Limits Avoidance}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={0-0},
+  doi={00000}}
+```
 
 ### Maintainer
 
