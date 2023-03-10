@@ -19,8 +19,7 @@ Video
 <div align="center">
   <a href="Paper"><b>Paper</b></a> |
   <a href="Pre=print"><b>Pre-print</b></a> |
-  <a href="Video"><b>Video</b></a> |
- <a href="Results"><b>Results</b></a>
+  <a href="Video"><b>Video</b></a>
 </div>
 
 ## Abstract
@@ -32,10 +31,16 @@ With the help of Lyapunov-based arguments, we prove that the proposed control ar
 We validate the performance of proposed architecture through various simulations on a simple two-degree-of-freedom manipulator and the humanoid robot iCub.
 
 ## Installation
-:warning: **The work in progress!**
+This repository requires to install
+
+  - MATLAB + Simulink
+  - Simscape (required for [two link manipulator simulation](software/twoLinkManipulator))
+  - Gazebo (required for [humanoid robot iCub simulation](software/humanoidRobotIcub))
+
+then just clone/download this repo to use it.
 
 ## Instructions
-:warning: **The work in progress!**
+For the reconstruction of results please refer to [software readme](software/README.md).
 
 ## Citing this work
 If you find the work useful, please consider citing:
