@@ -50,9 +50,14 @@ Some functionalities may not work properly on macOS and Windows.
 
   - Install the required dependencies,
     
-    It is suggested to install WB-Toolbox, gazebo-yarp-plugins, icub-models and YARP and their dependencies using [robotology-superbuild](https://github.com/robotology/robotology-superbuild) (enable ROBOTOLOGY_ENABLE_DYNAMICS, ROBOTOLOGY_USES_GAZEBO and ROBOTOLOGY_USES_MATLAB options).
+    It is suggested to install WB-Toolbox, gazebo-yarp-plugins, icub-models and YARP and their dependencies using [robotology-superbuild](https://github.com/robotology/robotology-superbuild) (Note that in this case one needs to enable ROBOTOLOGY_ENABLE_DYNAMICS, ROBOTOLOGY_USES_GAZEBO and ROBOTOLOGY_USES_MATLAB options).
 
-  - Clone the repository on your pc by running on a terminal git clone https://github.com/ami-iit/paper_pasandi_2023_icra-joint-limit-avoidance, or download the repository.
+  - Clone the repository on your pc by running on a terminal
+  
+  ```
+  git clone https://github.com/ami-iit/paper_pasandi_2023_icra-joint-limit-avoidance
+  ```
+  or download the repository.
 
   - Simply use the available functionalities. For the step-by-step guideline, please refer to [software readme](software/README.md).
 
