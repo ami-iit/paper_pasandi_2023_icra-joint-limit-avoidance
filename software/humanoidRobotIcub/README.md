@@ -2,6 +2,10 @@
 
 The Simulink model for simulating the torque control with joints position and velocity limits avoidance for controlling the right leg of humnaoid robot iCub in Gazebo while it is on the poll.
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/34647611/227213946-7d533217-2b4a-498b-a186-fcbcbef69d5d.png" width="300">
+</div>
+
 ### How to Run
 
 1. Set the environmental variable YARP_ROBOT_NAME by adding the following line in the .bashrc:
