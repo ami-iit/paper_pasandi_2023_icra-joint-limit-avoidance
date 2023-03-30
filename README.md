@@ -17,6 +17,7 @@ Video
 </div>
 
 <div align="center">
+  <a href="https://github.com/ami-iit/paper_pasandi_2023_icra-joint-limit-avoidance/blob/main/documents/graphical_abstract.png"><b>Graphical abstract</b></a> |
   <a href="Paper"><b>Paper</b></a> |
   <a href="Pre=print"><b>Pre-print</b></a> |
   <a href="Video"><b>Video</b></a>
