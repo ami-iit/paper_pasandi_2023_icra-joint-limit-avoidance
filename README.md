@@ -10,7 +10,7 @@ V. Pasandi, D. Pucci, "Torque Control with Joints Position and Velocity Limits A
 
 <div align="center">
       <a href="https://www.youtube.com/watch?v=HvPr_zQ02VQ&t=2s">
-         <img src="https://github.com/ami-iit/paper_pasandi_2023_icra-joint-limit-avoidance/assets/34647611/b3e8b18b-358c-4310-b508-76cfbdec41b1"
+         <img src="https://github.com/ami-iit/paper_pasandi_2023_icra-joint-limit-avoidance/blob/main/documents/video_thumbnail.png"
               style="width:60%;">
       </a>
 </div>
